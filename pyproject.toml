@@ -23,7 +23,7 @@ keywords = []
 name = "compareworkbooks"
 readme = "README.rst"
 requires-python = ">=3.7"
-version = "0.1.0"
+version = "0.1.1"
 
 [project.license]
 file = "LICENSE.txt"
